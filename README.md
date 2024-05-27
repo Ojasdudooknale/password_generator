@@ -10,6 +10,6 @@ A simple password generator web application that allows users to generate a rand
 - Copy the generated password to clipboard with a single click.
 
 ## Live Demo
-You can try the live demo [here](#).
+You can try the live demo [here](https://od-password-genrator.netlify.app/).
 
 
